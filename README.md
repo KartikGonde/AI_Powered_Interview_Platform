@@ -180,5 +180,5 @@ Contributions are welcome! Please feel free to open a Pull Request.
 
 Built with ❤️ using [JSMastery](https://www.youtube.com/@javascriptmastery/videos), Next.js 15, Vapi AI and Google Gemini
 
-© 2026 Pytai AI by Kartik. All rights reserved.</p>
+© 2026 Pytai AI by Kartik Gonde. All rights reserved.</p>
 
